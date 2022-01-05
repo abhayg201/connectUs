@@ -4,7 +4,7 @@ This is a **Microsoft teams clone** in which more than two people can connect in
 # Live Demo
 #### - `Wait for the Server's reply during Signing Up` 
 #### - `Don't use Special Characters in User Name and Room Name`
-#### `App Link:` https://connect-uss.herokuapp.com   
+#### `App Link:` https://connect-uus.herokuapp.com/   
 
 
 ### `You can also try these Demo Accounts:`
